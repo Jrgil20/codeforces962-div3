@@ -1,6 +1,6 @@
 def Animals(legs):
     if legs % 2 != 0:
-        return "No solution"
+        return 
     elif legs % 4 == 0:
         return legs // 4
     else:
